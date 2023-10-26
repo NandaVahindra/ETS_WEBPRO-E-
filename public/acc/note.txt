@@ -1,0 +1,18 @@
+admin@pweb.com
+admin123
+
+fitur yang sudah ada
+fitur dashboard
+1. menampilkan email dari user yang login serta rolenya
+2. menampilkan jumlah user yang terdaftar di database
+3. menampilkan jumlah mahasiswa yang terdaftar di database
+fitur admin
+4. admin dapat menambahkan user baru ke dalam database
+5. admin dapat mengedit foto dan nama user dengan role user(tidak bisa sesama admin)
+6. admin dapat melakukan promosi role dari akun user menjadi akun admin
+7. admin dapat menghapus user yang terdaftar dengan role "user"
+8. admin dapat menambahkan data mahasiswa
+9. admin dapat mengedit data mahasiswa
+10. admin dapat menghapus data mahasiswa
+fitur user
+dalam pengembangan
