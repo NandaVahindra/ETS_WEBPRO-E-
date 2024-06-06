@@ -6,7 +6,8 @@ Made Nanda Wija Vahindra (5025211160)
 
 MyCampus is a web application that implements CRUD to manage student and class data on a campus. built with Laravel and SQL.
 We also implement login, registen, and email verification.  
-Link: https://mycampus-webproets.000webhostapp.com/
+Link: https://mycampus-webproets.000webhostapp.com/  
+Report: https://docs.google.com/document/d/1kmRq4k7frvq6KR6mnUb0Q9o-z3SUWGC_L54BwW6edE4/edit?usp=sharing  
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
