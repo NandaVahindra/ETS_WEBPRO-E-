@@ -5,7 +5,7 @@ Al-Ferro Yudisthira Putra (5025211176)
 Made Nanda Wija Vahindra (5025211160)  
 
 MyCampus is a web application that implements CRUD to manage student and class data on a campus. built with Laravel and SQL.
-We also implement login, registen, and email verification.
+We also implement login, registen, and email verification.  
 Link: https://mycampus-webproets.000webhostapp.com/
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
